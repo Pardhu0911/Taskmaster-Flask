@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  color: #f5f7f3;
+  background: #3c473b;
+  font: 1rem/1.55 system-ui, sans-serif;
+}
+main { max-width: 38rem; margin: 4rem auto; padding: 0 1.25rem; }
+a { color: #f2df99; }
+input, button { font: inherit; padding: .35rem .6rem; }
+label { display: block; margin-bottom: .4rem; }
+li { overflow-wrap: anywhere; }
